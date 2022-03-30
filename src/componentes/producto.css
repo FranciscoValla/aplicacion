@@ -1,0 +1,18 @@
+.producto{
+    width: 96%;
+    min-width: 340px;
+    margin: 20px 2%;
+    border-radius: 15px;
+    border-top: 8px rgba(0, 0, 0, 0.4) solid;
+}
+
+.producto h3{
+    margin: 20px 0;
+}
+
+.producto .card{
+    display: inline-block;
+    width: 20%;
+    margin: 3px;
+    min-width: 182px;
+}
